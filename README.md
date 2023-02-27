@@ -1,3 +1,2 @@
 # photo-gallery
-
-This is a repository with nothing special to deploy a Ionic v6.0
+This repository is a deploy of basic ionic app with nothing special XD
